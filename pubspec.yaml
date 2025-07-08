@@ -17,6 +17,8 @@ flutter:
       android:
         package: com.lazyarts.vikram.imagegallerysaver
         pluginClass: ImageGallerySaverPlugin
+      ios:
+        pluginClass: ImageGallerySaverPlugin
 
 dev_dependencies:
   flutter_test:
